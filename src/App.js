@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import FormNew from './components/FormNew';
 import logo from './components/Form/06-LOGO.png';
 import Main from './components/Main';

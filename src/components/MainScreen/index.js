@@ -167,6 +167,8 @@ const MainScreen = styled.div`
             z-index: +1;
         } 
     }
+
+    width: 100%;
 `;
 
 export default MainScreen;
