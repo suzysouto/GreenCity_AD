@@ -9,6 +9,7 @@ const Main = styled.main`
     width: 100%;
     height: 100%;
     margin: auto;
+    padding-top: 100px;
 `;
 
 export default Main;

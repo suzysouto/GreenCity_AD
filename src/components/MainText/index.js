@@ -14,36 +14,35 @@ const MainText = styled.div`
         display: flex;
         flex-direction: row;
         align-items: center;
-        margin-top: -290px;
+        //margin-top: -290px;
         max-width: 500px;
-        margin-left: 190px;
-        margin-right: 100px;        
+        //margin-left: 190px;
+        //margin-right: 100px;        
         overflow-wrap: break-word;
     }
 
     p#randomtext {
-        font-family: Open Sans;
+        font-family: 'Open Sans', sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
         color: #FFFFFF;
-        margin-top: 20px;
         display: flex;
         flex-direction: row;
         align-items: center;
         margin-top: 23px;
         max-width: 500px;
-        margin-left: 190px;
-        margin-right: 642px;
+        //margin-left: 190px;
+        //margin-right: 642px;
         overflow-wrap: break-word;
     }
 
     .ic {
         height: 300px;
         width: 302px;
-        margin-right: 191px;
-        margin-top: 166px;
-        margin-left: 690px;
+        //margin-right: 191px;
+        //margin-top: 166px;
+        //margin-left: 690px;
         display: flex;
         flex-direction: row;
         border-radius: 100%;
@@ -58,11 +57,11 @@ const MainText = styled.div`
         display: flex;
         flex-direction: row;
         align-items: center;
-        margin-top: -250px;
+        //margin-top: -250px;
         max-width: 500px;
         overflow-wrap: break-word;
-        margin-left: 561px;
-        margin-right: 349px;
+        //margin-left: 561px;
+        //margin-right: 349px;
     }
 
     p#randomtext2 {
@@ -75,18 +74,18 @@ const MainText = styled.div`
         flex-direction: row;
         align-items: center;
         margin-top: 14px;
-        max-width: 500px;
+        //max-width: 500px;
         overflow-wrap: break-word;
-        margin-left: 560px;
-        margin-right: 220px;
+        //margin-left: 560px;
+        //margin-right: 220px;
     }
 
     .ic2 {
         height: 300px;
         width: 302px;
-        margin-right: 120px;
-        margin-top: 94px;
-        margin-left: -550px;
+        //margin-right: 120px;
+        //margin-top: 94px;
+        //margin-left: -550px;
         display: flex;
         flex-direction: row;
         border-radius: 100%;
@@ -97,11 +96,11 @@ const MainText = styled.div`
         box-shadow: 0px 7px 0px #618778;
         border-radius: 5px;
 
-        position: absolute;
-        width: 241px;
-        height: 49px;
-        left: 595px;
-        top: 820px;
+        //position: absolute;
+        //width: 241px;
+        //height: 49px;
+        //left: 595px;
+        //top: 820px;
 
         font-family: Open Sans;
         font-style: normal;
